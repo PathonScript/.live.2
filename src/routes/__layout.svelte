@@ -9,9 +9,9 @@
 
 <div class={$darkTheme ? 'dark' : ''}>
   <Head />
-  <button class="absolute left-2 top-2 text-lg" on:click={() => ($darkTheme = !$darkTheme)}>
+  <!-- <button class="absolute left-2 top-2 text-lg" on:click={() => ($darkTheme = !$darkTheme)}>
     {$darkTheme ? '🌙' : '🌞'}
-  </button>
+  </button> -->
   <slot />
   <Kofi name={'patatotato'} />
   <!-- <SocialButtons /> -->
