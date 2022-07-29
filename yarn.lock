@@ -1953,6 +1953,11 @@ svelte-share-buttons-component@^1.5.0:
     from "^0.1.7"
     import "^0.0.6"
 
+svelte-typewriter@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/svelte-typewriter/-/svelte-typewriter-3.0.1.tgz#eede539364aa56ccca815643e7781517740f1eb0"
+  integrity sha512-rWW0ktlqQEP0+uTYDZ26VOfj4H9GhG3olagmA9c1TeXb8awHa/14elFz9CagVKdcaqh+v+gGkF1z3IVthVU5vA==
+
 svelte@^3.44.0:
   version "3.48.0"
   resolved "https://registry.yarnpkg.com/svelte/-/svelte-3.48.0.tgz#f98c866d45e155bad8e1e88f15f9c03cd28753d3"

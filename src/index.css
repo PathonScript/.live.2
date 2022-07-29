@@ -4,9 +4,18 @@
   @apply duration-200;
 }
 
-h1 {
-  font-size: 1.5em;
+.engtle {
+  font-size: 100px;
   font-family: 'Inter', sans-serif;
+}
+
+.card {
+  @apply border-2 border-slate-600 m-4 rounded-md flex items-center justify-center
+  hover:bg-slate-700;
+}
+
+.card h1 {
+  @apply text-center text-3xl text-slate-500;
 }
 
 .fullflex {

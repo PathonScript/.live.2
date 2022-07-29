@@ -13,6 +13,6 @@
     {$darkTheme ? '🌙' : '🌞'}
   </button> -->
   <slot />
-  <Kofi name={'patatotato'} />
+  <!-- <Kofi name={'patatotato'} /> -->
   <!-- <SocialButtons /> -->
 </div>
