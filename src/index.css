@@ -29,5 +29,5 @@
 }
 
 .fullflex {
-  @apply flex w-full h-screen items-center justify-center bg-slate-800;
+  @apply flex flex-col w-full h-screen items-center justify-center bg-slate-800;
 }
