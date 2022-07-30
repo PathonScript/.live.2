@@ -24,12 +24,12 @@
       <Typewriter
         mode="loop"
       >
-      <h1 class="hello">Hello</h1>
-      <h1 class="hello">Hola</h1>
-      <h1 class="hello">Goededag</h1>
+      <h1 class="hello">Hello!</h1>
+      <h1 class="hello">Hola!</h1>
+      <h1 class="hello">Goedendag!</h1>
       <h1 class="hello">こんにちは</h1>
-      <h1 class="hello">It's chewsday innit</h1>
-      <h1 class="hello">Bonjour</h1>
+      <h1 class="hello">It's chewsday innit?</h1>
+      <h1 class="hello">Bonjour!</h1>
       <h1 class="hello">안녕하세요</h1>
 
       </Typewriter>
