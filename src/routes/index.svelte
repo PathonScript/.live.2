@@ -71,7 +71,7 @@
       
       <a href="https://discord.com" class="grid card" target="_blank">
         <div>
-          <h1>Patato #0267</h1>
+          <h1>Patato#0267</h1>
         </div>
       </a>
     </div>
