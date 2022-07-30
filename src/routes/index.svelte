@@ -27,7 +27,7 @@
       </Typewriter>
     </div>
 
-    <h1 class="flex text-6xl text-white mx-5">I'm Pat</h1>
+    <h1 class="flex text-6xl text-white mx-5 script">I'm Pat</h1>
 
     <div class="grid grid-cols-3 sm:grid-cols-5 h-24 w-full">
 
