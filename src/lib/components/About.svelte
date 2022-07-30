@@ -19,12 +19,4 @@
 			</h1>
 		</div>
 	</div>
-
-	<!-- <div class="bottom-0">
-		<h1 class="text-center text-white script">© Copyright 2022 | Patato</h1>
-	</div> -->
-
-	<!-- <div class="flex flex-row">
-		<div class="flex"></div>
-	</div> -->
 </div>

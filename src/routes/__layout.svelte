@@ -15,4 +15,5 @@
   <slot />
   <!-- <Kofi name={'patatotato'} /> -->
   <!-- <SocialButtons /> -->
+  
 </div>

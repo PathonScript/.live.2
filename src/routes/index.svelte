@@ -3,7 +3,7 @@
   import Typewriter from 'svelte-typewriter'
   import * as animateScroll from "svelte-scrollto";
 
-
+  import Footer from '$lib/components/Footer.svelte';
   import Modal from '$lib/components/Modal.svelte';
   import About from '$lib/components/About.svelte'
   import { modal } from '$lib/store';
@@ -79,6 +79,10 @@
 </div>
 
 <About />
+
+<div class="sticky absolute bottom-0">
+  <Footer />
+</div>
 
 {#if $modal}
   <Modal closeModal={() => ($modal = false)} />
