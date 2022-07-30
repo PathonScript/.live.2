@@ -4,7 +4,7 @@
 	<div class="grid grid-cols-1 sm:grid-cols-2 h-1/2 mt-10">
 		<div class="grid p-2 mx-4">
 			<h1 class="text-white text-2xl script">
-				Hello, I'm Pat, I'm a student from Thailand and is currently codes for hobby by making fun projects.
+				Hello, I'm Pat, I'm a student from Thailand and is currently coding for hobby by making fun projects.
 			</h1>
 			<h1 class="text-white text-2xl script">
 				I've been coding since I was about 11. Being inspired by Dani who is a game developer.
