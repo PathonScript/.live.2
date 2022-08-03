@@ -50,7 +50,13 @@
           <h1 class="text-red-500">About Me</h1>
         </div>
       </button>
-
+      
+      <a href="mailto:pathonscript@gmail.com" class="grid card" target="_blank">
+        <div>
+          <h1>Email</h1>
+        </div>
+      </a>
+      
       <a href="https://twitter.com/patatotota" class="grid card" target="_blank">
         <div>
           <h1>Twitter</h1>
@@ -69,18 +75,13 @@
         </div>
       </a>
       
-      <a href="https://discord.com" class="grid card" target="_blank">
-        <div>
-          <h1>Patato#0267</h1>
-        </div>
-      </a>
     </div>
   </div>
 </div>
 
 <About />
 
-<div class="sticky absolute bottom-0">
+<div class="sticky bottom-0">
   <Footer />
 </div>
 
